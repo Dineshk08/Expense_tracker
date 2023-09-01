@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862079676810",
+    "project_id": "finex-91373",
+    "storage_bucket": "finex-91373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862079676810:android:aacdf34dc5d6b63106d873",
+        "android_client_info": {
+          "package_name": "com.dineshsapplication.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862079676810-pa28esjv2vnr5i960rh7lm5ikhjhlvuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUiO2_ZEGSquZAYrRkg1ZfLAnLiaMbqy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862079676810-pa28esjv2vnr5i960rh7lm5ikhjhlvuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

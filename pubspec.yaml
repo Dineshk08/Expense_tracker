@@ -1,0 +1,63 @@
+name: dinesh_s_application42
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cached_network_image: ^3.2.1
+  flutter_svg: ^1.1.6
+  flutter_svg_provider: ^1.0.3
+  intl: ^0.18.0
+  firebase_core: ^2.15.1
+  firebase_auth: ^4.7.3
+  shared_preferences: ^2.2.0
+  flutter_bloc: ^7.0.0
+  equatable: ^2.0.5
+  kommunicate_flutter: ^1.7.0
+  firebase_storage: ^11.2.6
+  image_picker: ^1.0.2
+  url_launcher: ^6.1.12
+  
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Jost
+      fonts: 
+        - asset: assets/fonts/JostRomanSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/JostItalicMedium.ttf
+          weight: 500
+        - asset: assets/fonts/JostRomanMedium.ttf
+          weight: 500
+        - asset: assets/fonts/JostRomanBold.ttf
+          weight: 700
+        - asset: assets/fonts/JostRomanRegular.ttf
+          weight: 400
+        - asset: assets/fonts/JostRomanExtraBold.ttf
+          weight: 800
+    - family: Inter
+      fonts: 
+        - asset: assets/fonts/InterBold.ttf
+          weight: 700
+        - asset: assets/fonts/InterMedium.ttf
+          weight: 500
+        - asset: assets/fonts/InterRegular.ttf
+          weight: 400
+        - asset: assets/fonts/InterLight.ttf
+          weight: 300
+        - asset: assets/fonts/InterSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/InterExtraBold.ttf
+          weight: 800
+    - family: Inria Sans
+      fonts: 
+        - asset: assets/fonts/InriaSansBold.ttf
+          weight: 700
